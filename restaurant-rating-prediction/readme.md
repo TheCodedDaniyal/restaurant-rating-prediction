@@ -67,9 +67,6 @@ This project predicts restaurant ratings using machine learning based on feature
 
 ---
 
-## 📷 Sample Visualization
-(Add screenshots of graphs here)
-
 ---
 
 ## 🔗 How to Run
